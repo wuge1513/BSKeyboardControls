@@ -18,6 +18,14 @@
 		5E35BC4F14C46E980059A9E5 /* MainStoryboard_iPad.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5E35BC4E14C46E980059A9E5 /* MainStoryboard_iPad.storyboard */; };
 		5EB2E15115B7438800CDE344 /* BSKeyboardControls.m in Sources */ = {isa = PBXBuildFile; fileRef = 5EB2E14D15B7438800CDE344 /* BSKeyboardControls.m */; };
 		5EB2E15215B7438800CDE344 /* BSKeyboardControls.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5EB2E14E15B7438800CDE344 /* BSKeyboardControls.strings */; };
+		A9FFF4DF15D351A2005737BE /* BSKeyboardControls.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5EB2E14E15B7438800CDE344 /* BSKeyboardControls.strings */; };
+		A9FFF4E115D351AB005737BE /* BSKeyboardControls.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5EB2E14E15B7438800CDE344 /* BSKeyboardControls.strings */; };
+		A9FFF4E315D351B7005737BE /* BSKeyboardControls.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5EB2E14E15B7438800CDE344 /* BSKeyboardControls.strings */; };
+		A9FFF4E515D351BF005737BE /* BSKeyboardControls.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5EB2E14E15B7438800CDE344 /* BSKeyboardControls.strings */; };
+		A9FFF4E715D351C6005737BE /* BSKeyboardControls.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5EB2E14E15B7438800CDE344 /* BSKeyboardControls.strings */; };
+		A9FFF4E915D351CD005737BE /* BSKeyboardControls.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5EB2E14E15B7438800CDE344 /* BSKeyboardControls.strings */; };
+		A9FFF4EB15D351D5005737BE /* BSKeyboardControls.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5EB2E14E15B7438800CDE344 /* BSKeyboardControls.strings */; };
+		A9FFF4ED15D351DF005737BE /* BSKeyboardControls.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5EB2E14E15B7438800CDE344 /* BSKeyboardControls.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +48,14 @@
 		5EB2E14D15B7438800CDE344 /* BSKeyboardControls.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BSKeyboardControls.m; sourceTree = "<group>"; };
 		5EB2E14F15B7438800CDE344 /* da */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = da; path = da.lproj/BSKeyboardControls.strings; sourceTree = "<group>"; };
 		5EB2E15015B7438800CDE344 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/BSKeyboardControls.strings; sourceTree = "<group>"; };
+		A9FFF4DE15D351A2005737BE /* French */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = French; path = French.lproj/BSKeyboardControls.strings; sourceTree = "<group>"; };
+		A9FFF4E015D351AB005737BE /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/BSKeyboardControls.strings; sourceTree = "<group>"; };
+		A9FFF4E215D351B7005737BE /* Japanese */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Japanese; path = Japanese.lproj/BSKeyboardControls.strings; sourceTree = "<group>"; };
+		A9FFF4E415D351BF005737BE /* ko */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ko; path = ko.lproj/BSKeyboardControls.strings; sourceTree = "<group>"; };
+		A9FFF4E615D351C6005737BE /* Portuguese */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Portuguese; path = Portuguese.lproj/BSKeyboardControls.strings; sourceTree = "<group>"; };
+		A9FFF4E815D351CD005737BE /* Spanish */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Spanish; path = Spanish.lproj/BSKeyboardControls.strings; sourceTree = "<group>"; };
+		A9FFF4EA15D351D5005737BE /* zh-Hans */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hans"; path = "zh-Hans.lproj/BSKeyboardControls.strings"; sourceTree = "<group>"; };
+		A9FFF4EC15D351DF005737BE /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/BSKeyboardControls.strings"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -156,6 +172,14 @@
 			knownRegions = (
 				en,
 				da,
+				de,
+				French,
+				Japanese,
+				ko,
+				Portuguese,
+				Spanish,
+				"zh-Hans",
+				"zh-Hant",
 			);
 			mainGroup = 5E35BBFE14C46DEC0059A9E5;
 			productRefGroup = 5E35BC0A14C46DEC0059A9E5 /* Products */;
@@ -176,6 +200,14 @@
 				5E35BC4714C46E070059A9E5 /* MainStoryboard_iPhone.storyboard in Resources */,
 				5E35BC4F14C46E980059A9E5 /* MainStoryboard_iPad.storyboard in Resources */,
 				5EB2E15215B7438800CDE344 /* BSKeyboardControls.strings in Resources */,
+				A9FFF4DF15D351A2005737BE /* BSKeyboardControls.strings in Resources */,
+				A9FFF4E115D351AB005737BE /* BSKeyboardControls.strings in Resources */,
+				A9FFF4E315D351B7005737BE /* BSKeyboardControls.strings in Resources */,
+				A9FFF4E515D351BF005737BE /* BSKeyboardControls.strings in Resources */,
+				A9FFF4E715D351C6005737BE /* BSKeyboardControls.strings in Resources */,
+				A9FFF4E915D351CD005737BE /* BSKeyboardControls.strings in Resources */,
+				A9FFF4EB15D351D5005737BE /* BSKeyboardControls.strings in Resources */,
+				A9FFF4ED15D351DF005737BE /* BSKeyboardControls.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -209,6 +241,14 @@
 			children = (
 				5EB2E14F15B7438800CDE344 /* da */,
 				5EB2E15015B7438800CDE344 /* en */,
+				A9FFF4DE15D351A2005737BE /* French */,
+				A9FFF4E015D351AB005737BE /* de */,
+				A9FFF4E215D351B7005737BE /* Japanese */,
+				A9FFF4E415D351BF005737BE /* ko */,
+				A9FFF4E615D351C6005737BE /* Portuguese */,
+				A9FFF4E815D351CD005737BE /* Spanish */,
+				A9FFF4EA15D351D5005737BE /* zh-Hans */,
+				A9FFF4EC15D351DF005737BE /* zh-Hant */,
 			);
 			name = BSKeyboardControls.strings;
 			sourceTree = "<group>";

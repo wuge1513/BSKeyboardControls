@@ -6,6 +6,6 @@
   Copyright (c) 2012 Simon Støvring. All rights reserved.
 */
 
-"Previous"   = "Forrige";
-"Next"       = "Næste";
-"Done"       = "OK";
+"Previous"   = "上一項";
+"Next"       = "下一項";
+"Done"       = "完成";

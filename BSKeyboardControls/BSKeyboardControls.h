@@ -18,6 +18,7 @@ typedef enum
     KeyboardControlsDirectionSelected
 } KeyboardControlsDirection;
 
+
 @interface BSKeyboardControls : UIView
 
 /*
@@ -70,6 +71,14 @@ typedef enum
  * Reload text fields
  */
 - (void)reloadTextFields;
+
+- (void)keyboardControlsPreviousNextPressed:(BSKeyboardControls *)controls withDirection:(KeyboardControlsDirection)direction andActiveTextField:(UITextField *)textField;
+
+/*
+ * Done button was pressed
+ */
+- (void)keyboardControlsDonePressed:(BSKeyboardControls *)controls;
+
 
 @end
 
